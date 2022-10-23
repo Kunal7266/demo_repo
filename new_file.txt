@@ -2,5 +2,4 @@ qwerty
 keyboard
 is arrived
 
-this is final
-no
+this is fixed bug, which was very buggy.
